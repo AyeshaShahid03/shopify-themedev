@@ -1,7 +1,7 @@
 ---
 title: Pricing
-date: 2022-03-23
-updatedDate: 2024-06-15
+date: 2024-07-24
+updatedDate: 2024-10-07
 faqs:
   - q: What programming languages are supported?
     a: We currently support 17+ web frameworks in different programming languages (Python, Golang, Javascript, PHP, C#, Java, etc.). If we don't support your framework, kindly email us at <a href="mailto:hello@apitoolkit.io">hello@apitoolkit.io</a> and we'll create an SDK for you ASAP!
